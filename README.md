@@ -1,2 +1,3 @@
 # Theiascore
-Ems and my site
+
+This site is made by Torin Andrews and Emerson Corduff.
